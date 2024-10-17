@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
+title:  "Example Pinned Post"
+author: "FAccT 2025 Program Chairs"
 comments: true
 tags: Tale
 excerpt_separator: <!--more-->
