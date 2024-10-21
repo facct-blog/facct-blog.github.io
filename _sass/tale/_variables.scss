@@ -1,7 +1,8 @@
 // Colors
 $default-color: #555 !default;
 $default-shade: #353535 !default;
-$default-tint: #aaa !default;
+// $default-tint: #aaa !default; # too low contrast for accessibility
+$default-tint: #979797 !default;
 $default-accent: #5857ff !default;
 $grey-1: #979797 !default;
 $grey-2: #e5e5e5 !default;
