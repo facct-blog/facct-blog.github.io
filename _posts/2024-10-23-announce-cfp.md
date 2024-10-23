@@ -3,7 +3,7 @@ layout: post
 title:  "Announcing the FAccT 2025 Call for Papers"
 author: "FAccT 2025 Program Chairs"
 comments: true
-tags: CFP, FAccT 2025
+tags: cfp facct-2025
 excerpt_separator: <!--more-->
 sticky: true
 hidden: true
