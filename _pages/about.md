@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About"
-author: "ACM FAccT PC"
+# author: "ACM FAccT PC"
 permalink: /about/
 ---
 
