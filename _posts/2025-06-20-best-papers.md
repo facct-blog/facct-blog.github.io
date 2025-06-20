@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Announcing Best Paper Awards for FAccT 2025"
+title:  "Announcing Best Paper Awards"
 author: "2025 Program Chairs (Jenn Wortman Vaughan, Shakir Mohamed, Sina Fazelpour, and Talia B. Gillis)"
 comments: true
 tags: best-papers facct-2025
