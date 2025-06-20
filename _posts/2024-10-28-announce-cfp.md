@@ -5,8 +5,8 @@ author: "2025 Program Chairs (Jenn Wortman Vaughan, Shakir Mohamed, Sina Fazelpo
 comments: true
 tags: cfp facct-2025
 excerpt_separator: <!--more-->
-sticky: true
-hidden: true
+sticky: false
+hidden: false
 ---
 
 Welcome to the new FAccT blog! This is the first in a series of posts that will help the community stay informed about the organization, processes, and program for FAccT 2025.
