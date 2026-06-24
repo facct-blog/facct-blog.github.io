@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Update to ACM FAccT Submission Timeline Beginning in 2027"
-author: "2027 Program Chairs (Aurelia Tamò-Larrieux, Isabel Valera, David Leslie, Remi Denton))"
+author: "2027 Program Chairs (Remi Denton, David Leslie, Aurelia Tamò-Larrieux, Isabel Valera)"
 comments: true
 tags: review-process facct-2027
 excerpt_separator: <!--more-->
