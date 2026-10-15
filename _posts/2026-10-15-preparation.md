@@ -9,7 +9,8 @@ sticky: false
 hidden: false
 ---
 
-_First, an important reminder: If you currently do not have an **OpenReview** account, please make sure to create one without delay. Authors without an institutional affiliation should sign up as soon as possible, because profile verification may take a couple of weeks to process. For these authors, we recommend creating an account by October 16, 2026, to allow enough time for verification. Please do not leave this until the submission deadline!_
+First, an important reminder: If you currently do not have an **OpenReview** account, please make sure to create one without delay. Authors without an institutional affiliation should sign up as soon as possible, because profile verification may take a couple of weeks to process. For these authors, we recommend creating an account by October 16, 2026, to allow enough time for verification. Please do not leave this until the submission deadline!
+
 <br/>
 
 Dear FAccT community,
