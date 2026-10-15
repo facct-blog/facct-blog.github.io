@@ -9,10 +9,11 @@ sticky: false
 hidden: false
 ---
 
-First, an important reminder: If you currently do not have an **OpenReview** account, please make sure to create one without delay. Authors without an institutional affiliation should sign up as soon as possible, because profile verification may take a couple of weeks to process. For these authors, we recommend creating an account by October 16, 2026, to allow enough time for verification. Please do not leave this until the submission deadline!
+_First, an important reminder: If you currently do not have an **OpenReview** account, please make sure to create one without delay. Authors without an institutional affiliation should sign up as soon as possible, because profile verification may take a couple of weeks to process. For these authors, we recommend creating an account by October 16, 2026, to allow enough time for verification. Please do not leave this until the submission deadline!_
+
+<!--more-->
 
 <br/>
-
 Dear FAccT community,
 
 We’re excited to share info about several updates we have made to the submission and reviewing processes for the 2027 edition of FAccT. In this blog post, we’ll explain what is changing, what these changes mean for authors and reviewers, and how they support a rigorous, constructive, and fair review process.
